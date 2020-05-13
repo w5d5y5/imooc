@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b00a8e4-2a09-4291-b229-e3acb594f449" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="/Volumes/小内存卡/apache-maven-3.5.4/repository" />
+        <option name="mavenHome" value="/Volumes/小内存卡/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="/Volumes/小内存卡/apache-maven-3.5.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1boiL7qy19HJzc8hKKvOm3Rrwd9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ImoocSpringbootStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="imooc-springboot-study" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.springboot.study.imoocspringbootstudy.ImoocSpringbootStudyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b00a8e4-2a09-4291-b229-e3acb594f449" name="Default Changelist" comment="" />
+      <created>1589304787893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589304787893</updated>
+      <workItem from="1589304792555" duration="1260000" />
+      <workItem from="1589340703594" duration="677000" />
+      <workItem from="1589341526542" duration="241000" />
+      <workItem from="1589341772807" duration="1022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="42" key="#Project_Structure" timestamp="1589341459523">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state x="240" y="42" key="#Project_Structure/0.23.1280.707@0.23.1280.707" timestamp="1589341459523" />
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom" timestamp="1589343076284">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom/0.23.1280.707@0.23.1280.707" timestamp="1589343076284" />
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom/0.23.1280.708@0.23.1280.708" timestamp="1589342071750" />
+    <state width="1238" height="174" key="GridCell.Tab.0.center" timestamp="1589343076282">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.center/0.23.1280.707@0.23.1280.707" timestamp="1589343076282" />
+    <state width="1238" height="174" key="GridCell.Tab.0.center/0.23.1280.708@0.23.1280.708" timestamp="1589342071748" />
+    <state width="1238" height="174" key="GridCell.Tab.0.left" timestamp="1589343076281">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.left/0.23.1280.707@0.23.1280.707" timestamp="1589343076281" />
+    <state width="1238" height="174" key="GridCell.Tab.0.left/0.23.1280.708@0.23.1280.708" timestamp="1589342071747" />
+    <state width="1238" height="174" key="GridCell.Tab.0.right" timestamp="1589343076283">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.right/0.23.1280.707@0.23.1280.707" timestamp="1589343076283" />
+    <state width="1238" height="174" key="GridCell.Tab.0.right/0.23.1280.708@0.23.1280.708" timestamp="1589342071749" />
+    <state x="194" y="23" width="982" height="707" key="SettingsEditor" timestamp="1589342560317">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state x="194" y="23" width="982" height="707" key="SettingsEditor/0.23.1280.707@0.23.1280.707" timestamp="1589342560317" />
+    <state x="149" y="23" key="SettingsEditor/0.23.1280.708@0.23.1280.708" timestamp="1589340721632" />
+    <state x="319" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1589341533111">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state x="319" y="209" key="com.intellij.ide.util.TipDialog/0.23.1280.707@0.23.1280.707" timestamp="1589341533111" />
+  </component>
+</project>
