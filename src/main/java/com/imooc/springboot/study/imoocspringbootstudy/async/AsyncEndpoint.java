@@ -16,7 +16,6 @@ public class AsyncEndpoint {
     public Map<String,Object> info(){
         Map<String,Object> info =new HashMap<>();
         info.put("AsyncExecutor",executor.getCorePoolSize());
-        System.out.println("");
         return  info;
     }
     //动态更改监控指标
