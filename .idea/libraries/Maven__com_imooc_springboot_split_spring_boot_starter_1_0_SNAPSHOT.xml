@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Maven: com.imooc.springboot:split-spring-boot-starter:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar:///Volumes/小内存卡/apache-maven-3.5.4/repository/com/imooc/springboot/split-spring-boot-starter/1.0-SNAPSHOT/split-spring-boot-starter-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///Volumes/小内存卡/apache-maven-3.5.4/repository/com/imooc/springboot/split-spring-boot-starter/1.0-SNAPSHOT/split-spring-boot-starter-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///Volumes/小内存卡/apache-maven-3.5.4/repository/com/imooc/springboot/split-spring-boot-starter/1.0-SNAPSHOT/split-spring-boot-starter-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/.mvn/wrapper" />
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

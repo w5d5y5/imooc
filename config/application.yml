@@ -1,0 +1,4 @@
+#server:
+  #servlet:
+  # context-path: /imocc
+  #port: 8001

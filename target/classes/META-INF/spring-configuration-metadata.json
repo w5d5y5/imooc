@@ -1,0 +1,60 @@
+{
+  "groups": [
+    {
+      "name": "imooc.springboot",
+      "type": "com.imooc.springboot.study.imoocspringbootstudy.config.SpringBootConfig",
+      "sourceType": "com.imooc.springboot.study.imoocspringbootstudy.config.SpringBootConfig"
+    },
+    {
+      "name": "management.endpoint.async-executor",
+      "type": "com.imooc.springboot.study.imoocspringbootstudy.config.AsyncPoolConfig",
+      "sourceType": "com.imooc.springboot.study.imoocspringbootstudy.config.AsyncPoolConfig"
+    },
+    {
+      "name": "management.endpoint.datetime",
+      "type": "com.imooc.springboot.study.imoocspringbootstudy.endpoint.DateTimeEndpoint",
+      "sourceType": "com.imooc.springboot.study.imoocspringbootstudy.endpoint.DateTimeEndpoint"
+    }
+  ],
+  "properties": [
+    {
+      "name": "imooc.springboot.name",
+      "type": "java.lang.String",
+      "sourceType": "com.imooc.springboot.study.imoocspringbootstudy.config.SpringBootConfig"
+    },
+    {
+      "name": "imooc.springboot.version",
+      "type": "java.lang.String",
+      "sourceType": "com.imooc.springboot.study.imoocspringbootstudy.config.SpringBootConfig"
+    },
+    {
+      "name": "management.endpoint.async-executor.cache.time-to-live",
+      "type": "java.time.Duration",
+      "description": "Maximum time that a response can be cached.",
+      "sourceType": "com.imooc.springboot.study.imoocspringbootstudy.config.AsyncPoolConfig",
+      "defaultValue": "0ms"
+    },
+    {
+      "name": "management.endpoint.async-executor.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Whether to enable the asyncExecutor endpoint.",
+      "sourceType": "com.imooc.springboot.study.imoocspringbootstudy.config.AsyncPoolConfig",
+      "defaultValue": true
+    },
+    {
+      "name": "management.endpoint.datetime.cache.time-to-live",
+      "type": "java.time.Duration",
+      "description": "Maximum time that a response can be cached.",
+      "sourceType": "com.imooc.springboot.study.imoocspringbootstudy.endpoint.DateTimeEndpoint",
+      "defaultValue": "0ms"
+    },
+    {
+      "name": "management.endpoint.datetime.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Whether to enable the datetime endpoint.",
+      "sourceType": "com.imooc.springboot.study.imoocspringbootstudy.endpoint.DateTimeEndpoint",
+      "defaultValue": true
+    }
+  ],
+  "hints": []
+}

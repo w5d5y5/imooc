@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.imooc.springboot.study.imoocspringbootstudy.service.AsyncServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 6.08 s <<< FAILURE! - in com.imooc.springboot.study.imoocspringbootstudy.service.AsyncServiceTest
+testAsyncProcessHasReturn  Time elapsed: 1.019 s  <<< ERROR!
+java.util.concurrent.TimeoutException
+	at com.imooc.springboot.study.imoocspringbootstudy.service.AsyncServiceTest.testAsyncProcessHasReturn(AsyncServiceTest.java:36)
+
